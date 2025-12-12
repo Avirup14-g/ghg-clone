@@ -10,8 +10,9 @@ LONGITUDE = 88.3639
 DATABASE_NAME = "ghg_database.db"
 
 # Model paths
-LSTM_MODEL_PATH = "ghg-clone/lstm_model.h5"
+LSTM_MODEL_PATH = "lstm_model.h5"
 PROPHET_MODEL_PATH = "prophet_model.json"
+
 
 
 
